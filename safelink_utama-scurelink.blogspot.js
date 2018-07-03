@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
-if(x=="2"){xxx="10-tips-for-start-small-business-startup.html"}
-if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
-if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}a_to_ve[i].href="https://kompisafelinkv2.blogspot.com/2016/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="hybrid-cloud-solutions.html"}
+if(x=="2"){xxx="public-private-and-hybrid-cloud-whats.html"}
+if(x=="3"){xxx="What-Is-the-Hybrid-Cloud-and-How-Can-It-Help-Your-Business.html"}
+if(x=="4"){xxx="hybrid-cloud.html"}a_to_ve[i].href="https://scurelink.blogspot.com/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
